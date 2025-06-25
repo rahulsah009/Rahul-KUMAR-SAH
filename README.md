@@ -1,8 +1,7 @@
 # 📘 Java Programs – Coding Test Solutions
 
 This project contains 4 Java programs written as part of a coding test.  
-All programs are implemented using **Java**, following **object-oriented principles** with proper class structures and user input handling.
-
+All programs are implemented using **Java**.
 ---
 
 ## 🔧 Programming Language
