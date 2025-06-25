@@ -64,8 +64,7 @@ a = 5 <br>
 - **Output:**
     1, 3, 5, 7, 9
 
-
-  # Problem-4: Get the total count of number listed in the dictionary which is multiple of [1,2,3,4,5,6,7,8,9]
+# Problem-4: Get the total count of number listed in the dictionary which is multiple of [1,2,3,4,5,6,7,8,9]
   (examples)
   input: [1,2,8,9,12,46,76,82,15,20,30] <br>
   Output: 
